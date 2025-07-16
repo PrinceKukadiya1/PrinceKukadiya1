@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Kukadiya</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" width="300" hight="300" src="https://github.com/user-attachments/assets/df73bd48-9585-43d9-b2ef-de65b4447fc7">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekukadiya1&label=Profile%20views&color=0e75b6&style=flat" alt="princekukadiya1" /> </p>
 
